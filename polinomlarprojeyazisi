@@ -13,7 +13,8 @@ Bunu örneklendirecek olursak , x'in ikinci dereceden polinomu şu şekilde ifad
 
 f(x) = ax² + bx + c
 
-Burada a, b ve c sabitlerdir ve x değişkenidir. Bu polinomun her bir terimi x'nin farklı bir kuvveti ile çarpılır. İlk terim, x'in karesi ile çarpılır ve katsayısı a'dır. İkinci terim, x ile çarpılır ve katsayısı b'dir. Son terim ise sabit c'dir.
+Burada a, b ve c sabitlerdir ve x değişkenidir. Bu polinomun her bir terimi x'nin farklı bir kuvveti ile çarpılır. İlk terim, x'in karesi ile çarpılır ve katsayısı a'dır. 
+İkinci terim, x ile çarpılır ve katsayısı b'dir. Son terim ise sabit c'dir.
 
 Polinomlar matematiksel modelleme ve çeşitli problemlerin çözümü için kullanılabilir. Örneğin, bir doğru veya eğri ile uyumlu bir polinom, 
 verilerin analizinde kullanılabilir. Polinomlar ayrıca mühendislik, fizik ve diğer bilim dallarında da yaygın olarak kullanılmaktadır.
